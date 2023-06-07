@@ -1,0 +1,52 @@
+.logo{
+    color:#156963;
+    text-align: center;
+    font-weight: 650;
+    
+}
+
+ul{
+    line-height: 50px;
+    background-color: #777;
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    margin-right: 5%;
+}
+
+.services a{
+    font-size: 130%;
+    color: white;
+    text-decoration: none;
+}
+
+li:hover{
+    background-color: #156963;
+}
+
+.user a{
+    color:#156963;
+    text-decoration: none;
+}
+
+.user a:hover{
+    text-decoration:underline;
+}
+
+.welcome{
+    margin-top: 10%;
+    font-size: 280%;
+    line-height: 130%;
+    color:#156963;
+    text-align: center;
+}
+
+.logout{
+    
+    margin-top: 10%;
+    font-size: 130%;
+    text-align: center;
+}
+
